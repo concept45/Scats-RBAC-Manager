@@ -1,0 +1,11 @@
+*.suo
+*.user
+*.sdf
+/RBACManager/bin
+/RBACManager/bin/*
+/RBACManager/obj
+/RBACManager/obj/*
+/RandomAccountGenerator/bin
+/RandomAccountGenerator/bin/*
+/RandomAccountGenerator/obj
+/RandomAccountGenerator/obj/*
